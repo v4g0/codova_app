@@ -1,0 +1,53 @@
+{
+  "base": {
+    "LogOut": "Cerrar sesión",
+    "Wallet": "Billetera"
+  },
+  "code": {
+    "1401": "Este Dia festivo ya existe"
+  },
+  "common": {
+    "answer": {
+      "Desc1": "Comience a ganar por",
+      "Desc2": "responder un cuestionario",
+      "Title": "RESPONDER"
+    },
+    "ask": {
+      "Desc1": "Comience a ganar por",
+      "Desc2": "elaborar de un cuestionario",
+      "Title": "PREGUNTAR"
+    },
+    "forms": {
+      "InvalidEmail": "Correo invalido",
+      "PassConfirm": "Las contraseñas deben coincidir",
+      "RepetedEmail": "El correo ya se encuentra registrado",
+      "Required": "es un campo requerido"
+    }
+  },
+  "login": {
+    "common": {
+      "PHPass": "Contraseña"
+    },
+    "signIn": {
+      "In": "INGRESAR",
+      "PHUser": "Usuario",
+      "Title": "Iniciar sesión",
+      "Welcome": "Bienvenido",
+      "WrongCredentials": "Correo o contraseña inválidos!"
+    },
+    "signUp": {
+      "NewAccount": "Crea una cuenta nueva",
+      "PHMail": "Correo",
+      "PHName": "Nombre",
+      "PHPassConfirm": "Repite contraseña",
+      "SignUp": "Regístrate",
+      "Success": "Registro exitoso, le enviamos un correo electrónico con el enlace para activar su cuenta"
+    }
+  },
+  "main": {
+    "ChangeTalents": "Cambia Talents",
+    "GoToWallet": "Ir a la billetera",
+    "ThisWeek": "Esta semana",
+    "WalletSummary": "Resumen de la billetera"
+  }
+}

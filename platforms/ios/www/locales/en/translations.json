@@ -1,0 +1,53 @@
+{
+  "base": {
+    "LogOut": "Log out",
+    "Wallet": "Wallet"
+  },
+  "code": {
+    "1401": "Holyday already exist"
+  },
+  "common": {
+    "answer": {
+      "Desc1": "Start winning by",
+      "Desc2": "answering one quest",
+      "Title": "ANSWER"
+    },
+    "ask": {
+      "Desc1": "Start winning by",
+      "Desc2": "creating a quest",
+      "Title": "ASK"
+    },
+    "forms": {
+      "InvalidEmail": "Invalid email",
+      "PassConfirm": "Passwords must match",
+      "RepetedEmail": "This email is already in use",
+      "Required": "is a required field"
+    }
+  },
+  "login": {
+    "common": {
+      "PHPass": "Password"
+    },
+    "signIn": {
+      "In": "LOG IN",
+      "PHUser": "User",
+      "Title": "Log In",
+      "Welcome": "Welcome",
+      "WrongCredentials": "Email or Password invalid!"
+    },
+    "signUp": {
+      "NewAccount": "Create a new account",
+      "PHMail": "Email",
+      "PHName": "Name",
+      "PHPassConfirm": "Password confirmation",
+      "SignUp": "Sign up",
+      "Success": "Sign up success, we have sent you a link to active your account"
+    }
+  },
+  "main": {
+    "ChangeTalents": "Change Talents",
+    "GoToWallet": "Go to wallet",
+    "ThisWeek": "This week",
+    "WalletSummary": "Wallet summary"
+  }
+}
